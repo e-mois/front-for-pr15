@@ -1,0 +1,7 @@
+.popup__input_type_place-name[value] {
+  color: #c4c4c4;
+}
+
+.popup__input_type_place-name[value]:focus {
+  color: black;
+}

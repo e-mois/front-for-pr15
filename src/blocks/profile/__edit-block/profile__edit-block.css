@@ -1,0 +1,5 @@
+.profile__edit-block {
+  display: flex;
+  align-items: center;
+  position: relative;
+}

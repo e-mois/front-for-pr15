@@ -1,0 +1,7 @@
+.popup__input_type_place-link[value] {
+  color: #c4c4c4;
+}
+
+.popup__input_type_place-link[value]:focus {
+  color: black;
+}
